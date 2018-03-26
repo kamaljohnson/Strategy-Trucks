@@ -1,2 +1,2 @@
-# Stratergu-Trucks
+# Stratergy-Trucks
 Online Multiplayer Mobile Game 
